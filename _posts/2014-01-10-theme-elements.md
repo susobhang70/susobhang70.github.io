@@ -42,7 +42,7 @@ or with numbers!
 
 ## LINKS
 
-Want to link to a source? No problem. If you put the url in this format, like `[http://alum.mit.edu/www/hmfaysal](http://alum.mit.edu/www/hmfaysal)` - it'll automatically be linked up like [http://alum.mit.edu/www/hmfaysal](http://alum.mit.edu/www/hmfaysal). But if you want to customize your anchor text, you can do that too! Here's a link to the [my website](http://alum.mit.edu/www/hmfaysal "HMFAYSAL's Blog"). Neat.
+Want to link to a source? No problem. If you put the url in this format, like `[https://alum.mit.edu/www/hmfaysal](https://alum.mit.edu/www/hmfaysal)` - it'll automatically be linked up like [https://alum.mit.edu/www/hmfaysal](https://alum.mit.edu/www/hmfaysal). But if you want to customize your anchor text, you can do that too! Here's a link to the [my website](https://alum.mit.edu/www/hmfaysal "HMFAYSAL's Blog"). Neat.
 
 ## WHAT ABOUT IMAGES? ##
 
@@ -60,7 +60,7 @@ Check out [this post]({{ site.url }}/articles/sample-post-images/) to learn abou
 
 ## AND VIDEOS? ##
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](https://fitvidsjs.com/).
 
 ## EQUATIONS
 
@@ -113,7 +113,7 @@ Not sure which image you want to use yet? That's ok too. Leave yourself a descri
 
 ## ICONS
 
-This theme includes over 360 fontawesome icons. To use an icon go to [Fontawesome](http://fontawesome.io/3.2.1/icons/) website and click on the desired icon to find the appropriate tag.
+This theme includes over 360 fontawesome icons. To use an icon go to [Fontawesome](https://fontawesome.io/3.2.1/icons/) website and click on the desired icon to find the appropriate tag.
 
 <div class="text-center">
 <i class="icon-cogs"></i> <i class="icon-youtube-sign"></i> <i class="icon-thumbs-up"></i> <i class="icon-coffee"></i> <i class="icon-cloud-upload"></i> <i class="icon-camera"></i> <i class="icon-comments-alt"></i> <i class="icon-eye-open"></i> <i class="icon-heart"></i> <i class="icon-globe"></i>

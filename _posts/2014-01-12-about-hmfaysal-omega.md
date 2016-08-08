@@ -92,13 +92,13 @@ HMFAYSAL OMEGA Theme was designed by Hossain Mohd Faysal -- an Electrical Engine
 
 ### Questions?
 
-Having a problem getting something to work or want to know why I setup something in a certain way? Read the [theme documentation]({{ site.url }}/documentation/) or ping me on Twitter [@hmfaysal](http://twitter.com/hmfaysal) or [file a GitHub Issue](https://github.com/hmfaysal/hmfaysal-omega-theme/issues/new).
+Having a problem getting something to work or want to know why I setup something in a certain way? Read the [theme documentation]({{ site.url }}/documentation/) or ping me on Twitter [@hmfaysal](https://twitter.com/hmfaysal) or [file a GitHub Issue](https://github.com/hmfaysal/hmfaysal-omega-theme/issues/new).
 
 ---
 
 ### Requests?
 
-If you have some specific requests for this theme, or if you need help custom coding some elements, message me on Twitter [@hmfaysal](http://twitter.com/hmfaysal) or email me at [hmfaysal@alum.mit.edu](mailto:hmfaysal@alum.mit.edu)
+If you have some specific requests for this theme, or if you need help custom coding some elements, message me on Twitter [@hmfaysal](https://twitter.com/hmfaysal) or email me at [hmfaysal@alum.mit.edu](mailto:hmfaysal@alum.mit.edu)
 
 ---
 

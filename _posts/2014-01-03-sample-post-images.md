@@ -17,7 +17,7 @@ Here are some examples of what a post with images might look like. If you want t
 
 <figure>
 	<a href="{{ site.url }}/images/disneyland.jpg"><img src="{{ site.url }}/images/disneyland.jpg"></a>
-	<figcaption><a href="http://hmfaysal.github.io/" data-toggle="tooltip" title="Visit my website">A day at Disneyland, Tokyo</a>.</figcaption>
+	<figcaption><a href="https://hmfaysal.github.io/" data-toggle="tooltip" title="Visit my website">A day at Disneyland, Tokyo</a>.</figcaption>
 </figure>
 
 ### Two Up
@@ -48,9 +48,9 @@ Apply the `third` class like so to display three images side by side that share 
 
 {% highlight html %}
 <figure class="third">
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="https://placehold.it/1200x600.jpg"><img src="https://placehold.it/600x300.jpg"></a>
+	<a href="https://placehold.it/1200x600.jpg"><img src="https://placehold.it/600x300.jpg"></a>
+	<a href="https://placehold.it/1200x600.jpg"><img src="https://placehold.it/600x300.jpg"></a>
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
 {% endhighlight %}

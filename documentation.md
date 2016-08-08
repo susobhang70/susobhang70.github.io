@@ -22,7 +22,7 @@ General notes and suggestions for customizing **HMFAYSAL OMEGA Theme**.
 
 ## Basic Setup for a new Jekyll site
 
-1. [Install Jekyll](http://jekyllrb.com) and read through [this installation instructions]({{ site.url }}/theme-setup/installing-jekyll-on-windows/) if you haven't already.
+1. [Install Jekyll](https://jekyllrb.com) and read through [this installation instructions]({{ site.url }}/theme-setup/installing-jekyll-on-windows/) if you haven't already.
 2. Fork the [HMFAYSAL OMEGA Theme repo](https://github.com/hmfaysal/hmfaysal-omega-theme/fork)
 3. Clone the repo you just forked.
 4. Edit `_config.yml` to personalize your site.
@@ -61,7 +61,7 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              "http://localhost:4000"
+url:              "https://localhost:4000"
 
 
 # Owner/author information
@@ -69,10 +69,10 @@ owner:
   name:           Your Name
   avatar:         your-photo.jpg
   email:          your@email.com
-  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
+  # Use the coder's toolbox at https://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Some Details about yourself
   # Social networking links used in footer. Update and remove as you like.
-  # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
+  # To register at HMFAYSAL SOCIAL, visit https://social.hmfaysal.tk
   twitter:
   facebook:
   github:
@@ -81,7 +81,7 @@ owner:
   tumblr:
   hmfaysalsocial:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "http://plus.google.com/123123123123132123"
+  google_plus:    "https://plus.google.com/123123123123132123"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -105,7 +105,7 @@ links:
   - title: Faysal who?
     url: /hossain-mohd-faysal
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
 pygments:    true
@@ -304,10 +304,10 @@ HMFAYSAL-OMEGA-THEME
 
 ### _config.yml
 
-Most of the variables found here are used in the .html files found in `_includes` if you need to add or remove anything. A good place to start would be to change the title, tagline, description, and url of your site. Links are absolute and prefixed with `{{ "{{ site.url " }}}}` in the various `_includes` and `_layouts`, so remember to properly set `url`[^1] and use `http://localhost:4000` when developing locally or else the theme's stylesheet and scripts won't load.
+Most of the variables found here are used in the .html files found in `_includes` if you need to add or remove anything. A good place to start would be to change the title, tagline, description, and url of your site. Links are absolute and prefixed with `{{ "{{ site.url " }}}}` in the various `_includes` and `_layouts`, so remember to properly set `url`[^1] and use `https://localhost:4000` when developing locally or else the theme's stylesheet and scripts won't load.
 #### Disqus Comments
 
-Create a [Disqus](http://disqus.com) account and change `disqus_shortname` in `_config.yml` to the Disqus *shortname* you just setup. To enable commenting on a post, add the following to its front matter:
+Create a [Disqus](https://disqus.com) account and change `disqus_shortname` in `_config.yml` to the Disqus *shortname* you just setup. To enable commenting on a post, add the following to its front matter:
 
 {% highlight yaml %}
 comments: true
@@ -323,7 +323,7 @@ Enable or disable the Estimated Reading Time (ERT) of an article. Very recommend
 
 #### Fin animations and Fin color
 
-Enable or disable fin animations in header and footer. To find RGB color [visit here](http://www.rapidtables.com/web/color/RGB_Color.htm)
+Enable or disable fin animations in header and footer. To find RGB color [visit here](https://www.rapidtables.com/web/color/RGB_Color.htm)
 
 #### Owner/Author Information
 
@@ -333,7 +333,7 @@ Including a link to your Google+ profile has the added benefit of displaying [Go
 
 #### Google Analytics and Webmaster Tools
 
-Your Google Analytics ID goes here along with meta tags for [Google Webmaster Tools](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=35179) and [Bing Webmaster Tools](https://ssl.bing.com/webmaster/configure/verify/ownershi) site verification.
+Your Google Analytics ID goes here along with meta tags for [Google Webmaster Tools](https://support.google.com/webmasters/bin/answer.py?hl=en&answer=35179) and [Bing Webmaster Tools](https://ssl.bing.com/webmaster/configure/verify/ownershi) site verification.
 
 #### Top Navigation Links
 
@@ -383,7 +383,7 @@ There are two main content layouts: `post.html` (for posts) and `page.html` (for
 
 #### Feature Images
 
-A good rule of thumb is to keep feature images nice and wide. An image cropped around around 1024 x 768 pixels will keep file size down with an acceptable resolution for most devices. If you want to serve these images responsively I'd suggest looking at [Picturefill](https://github.com/scottjehl/picturefill) or [Adaptive Images](http://adaptive-images.com/).
+A good rule of thumb is to keep feature images nice and wide. An image cropped around around 1024 x 768 pixels will keep file size down with an acceptable resolution for most devices. If you want to serve these images responsively I'd suggest looking at [Picturefill](https://github.com/scottjehl/picturefill) or [Adaptive Images](https://adaptive-images.com/).
 
 The two layouts make the assumption that the feature images live in the *images* folder. To add a feature image to a post or page just include the filename in the front matter like so. 
 
@@ -414,7 +414,7 @@ Here's an example of what a tweet to your site could look like if you activate T
 
 #### Videos
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](https://fitvidsjs.com/).
 
 Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
 
@@ -447,13 +447,13 @@ ErrorDocument 404 /404.html
 
 ## Questions?
 
-Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@hmfaysal](http://twitter.com/hmfaysal) or [file a GitHub Issue](https://github.com/hmfaysal/hmfaysal-omega-theme/issues/new).
+Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@hmfaysal](https://twitter.com/hmfaysal) or [file a GitHub Issue](https://github.com/hmfaysal/hmfaysal-omega-theme/issues/new).
 
 ---
 
 ## Requests?
 
-If you have some specific requests for this theme, or if you need help custom coding some elements, message me on Twitter [@hmfaysal](http://twitter.com/hmfaysal) or email me at [hmfaysal@alum.mit.edu](mailto:hmfaysal@alum.mit.edu)
+If you have some specific requests for this theme, or if you need help custom coding some elements, message me on Twitter [@hmfaysal](https://twitter.com/hmfaysal) or email me at [hmfaysal@alum.mit.edu](mailto:hmfaysal@alum.mit.edu)
 
 ---
 
@@ -463,4 +463,4 @@ This theme is free and open source software, distributed under the [The MIT Lice
 
 If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
 
-[^1]: Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for canonical urls in `head.html`. Don't include a trailing `/` in your base url ie: http://hmfaysal.github.io. When developing locally I suggest using `http://localhost:4000` or whatever server you're using to properly load the theme's stylesheet, scripts, and image assets. If you leave this variable blank all links will resolve correctly except those pointing home.
+[^1]: Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for canonical urls in `head.html`. Don't include a trailing `/` in your base url ie: https://hmfaysal.github.io. When developing locally I suggest using `https://localhost:4000` or whatever server you're using to properly load the theme's stylesheet, scripts, and image assets. If you leave this variable blank all links will resolve correctly except those pointing home.

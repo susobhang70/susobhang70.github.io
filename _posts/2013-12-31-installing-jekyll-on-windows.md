@@ -64,7 +64,7 @@ pygments: false
 ## Step 5: Initializing a new blog ##
  By this step, you’ll have all the necessary gems to initialize a new blog. In my last post, I posted the codes to start a new blog. I will post them here again, simply type in the following commands:
 
-Open up a browser window, navigate to http://localhost:4000 to see your site. In the CMD, press CTRL + C to stop the server.
+Open up a browser window, navigate to https://localhost:4000 to see your site. In the CMD, press CTRL + C to stop the server.
 
 
 {% highlight bash %}
@@ -129,7 +129,7 @@ The lines in between the triple dashes (—) provide the essential information a
  
 
 ## Step 9: Compiling the site for deployment ##
- After you’ve added one or few posts and you’re feeling ready to offload the site to a deployment environment, run the ~ $ jekyll serve command to see you site live at http://localhost:4000. Additionally you can run ~ $ jekyll serve -w to view the site live while you add/edit something and see the changes reflected instantly on the local server. When you’re quite happy with the results, press CTRL + C to stop the local server and run the following command:
+ After you’ve added one or few posts and you’re feeling ready to offload the site to a deployment environment, run the ~ $ jekyll serve command to see you site live at https://localhost:4000. Additionally you can run ~ $ jekyll serve -w to view the site live while you add/edit something and see the changes reflected instantly on the local server. When you’re quite happy with the results, press CTRL + C to stop the local server and run the following command:
 
 {% highlight bash %}	
 ~ $ jekyll build
