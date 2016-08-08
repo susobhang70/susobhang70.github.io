@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /hossain-mohd-faysal/index.html
-title: Hossain Mohd Faysal
-tags: [Hossain, Mohd, Faysal, hmfaysal]
+permalink: /susobhang70/index.html
+title: Susobhan Ghosh
+tags: [Susobhan Ghosh, susobhang70]
 image:
-  feature: Hossain-Mohd-Faysal.jpg
+  feature: susobhang70.jpg
 ---
 <figure>
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
-  <figcaption>Hossain Mohammad Faysal</figcaption>
+  <img src="{{ site.url }}/images/susobhang70.jpg" alt="Susobhan Ghosh">
+  <figcaption>Susobhan Ghosh</figcaption>
 </figure>
 
 >Entrepreneur
@@ -19,9 +19,7 @@ image:
 >
 >Inventor
 
-I
-make
-stuff.
+I make stuff.
 
 
 *Beautiful, practical, meaningful stuff.*
