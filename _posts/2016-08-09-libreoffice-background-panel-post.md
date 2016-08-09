@@ -4,7 +4,7 @@ title: "Background Panels for Impress/Draw"
 description: Description of features provided by the Slide/Page Background Panels in LibreOffice 5.2+
 headline: LibreOffice 5.2
 category: Sidebar-documentation
-tags: [Sidebar, LibreOffice, slide, page, background, panel]
+tags: [Sidebar, LibreOffice, slide, page, background]
 imagefeature: slidebgpanel.png
 comments: true
 share: true
