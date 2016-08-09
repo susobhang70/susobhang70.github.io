@@ -59,7 +59,7 @@ These panels enable quick access to the slide/page size and background propertie
     </ul>
     </li>
     <li>
-        Insert Image as Bitmap
+        Insert Image as Bitmap - With option (pop-up) to set the image as background for all pages/slides
         <figure class="third">
             <a href="{{ site.url }}/images/slidebg_select_image.png"><img src="{{ site.url }}/images/slidebg_select_image.png"></a>
             <a href="{{ site.url }}/images/slidebg_setall.png"><img src="{{ site.url }}/images/slidebg_setall.png"></a>
@@ -73,3 +73,5 @@ These panels enable quick access to the slide/page size and background propertie
         Checkbox to toggle display objects.
     </li>
 </ul>
+
+A few other enhancements like a `Edit Master Slide` button to go to Master view of Page/Slide, `Close Master Slide` to close Master Slide, and context label changes are expected to made in LO 5.3.
