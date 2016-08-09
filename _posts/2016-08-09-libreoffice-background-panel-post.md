@@ -17,12 +17,17 @@ These panels enable quick access to the slide/page size and background propertie
 
 <h2>Features</h2>
 <ul>
-    <li>Format dropdown to easily change Slide/Page format.</li>
-    <center><a href="{{ site.url }}/images/slidebg_format.png"><img src="{{ site.url }}/images/slidebg_format.png"></a></center>
-    <li>Quick option to change Orientation of the Slide/Page</li>
-    <center><img src="{{ site.url }}/images/slidebg_orientation.png"></center>
-    <li>Dropdown to change background of the slide/page. Currently 5 settings - None (no background), Color (Solid Fill), Gradient, Hatching, and Bitmap
-    <center><a href="{{ site.url }}/images/slidebg_background.png"><img src="{{ site.url }}/images/slidebg_background.png"></a></center>
+    <li>
+        Format dropdown to easily change Slide/Page format.
+        <center><a href="{{ site.url }}/images/slidebg_format.png"><img src="{{ site.url }}/images/slidebg_format.png"></a></center>
+    </li>
+    <li>
+        Quick option to change Orientation of the Slide/Page
+        <center><a href="{{ site.url }}/images/slidebg_orientation.png"><img src="{{ site.url }}/images/slidebg_orientation.png"></a></center>
+    </li>
+    <li>
+        Dropdown to change background of the slide/page. Currently 5 settings - None (no background), Color (Solid Fill), Gradient, Hatching, and Bitmap
+        <center><a href="{{ site.url }}/images/slidebg_background.png"><img src="{{ site.url }}/images/slidebg_background.png"></a></center>
     <ul>
         <li>
             Color Setting
@@ -52,5 +57,19 @@ These panels enable quick access to the slide/page size and background propertie
 
         </li>
     </ul>
+    </li>
+    <li>
+        Insert Image as Bitmap
+        <figure class="third">
+            <a href="{{ site.url }}/images/slidebg_select_image.png"><img src="{{ site.url }}/images/slidebg_select_image.png"></a>
+            <a href="{{ site.url }}/images/slidebg_setall.png"><img src="{{ site.url }}/images/slidebg_setall.png"></a>
+            <a href="{{ site.url }}/images/slidebg_imagebg.png"><img src="{{ site.url }}/images/slidebg_imagebg.png"></a>
+        </figure>
+    </li>
+    <li>
+        Checkbox to toggle display background.
+    </li>
+    <li>
+        Checkbox to toggle display objects.
     </li>
 </ul>
