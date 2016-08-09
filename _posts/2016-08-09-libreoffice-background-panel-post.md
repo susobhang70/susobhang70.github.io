@@ -18,17 +18,39 @@ These panels enable quick access to the slide/page size and background propertie
 <h2>Features</h2>
 <ul>
     <li>Format dropdown to easily change Slide/Page format.</li>
-    <center><img src="{{ site.url }}/images/slidebg_format.png"></center>
+    <center><a href="{{ site.url }}/images/slidebg_format.png"><img src="{{ site.url }}/images/slidebg_format.png"></a></center>
     <li>Quick option to change Orientation of the Slide/Page</li>
     <center><img src="{{ site.url }}/images/slidebg_orientation.png"></center>
     <li>Dropdown to change background of the slide/page. Currently 5 settings - None (no background), Color (Solid Fill), Gradient, Hatching, and Bitmap
-    <center><img src="{{ site.url }}/images/slidebg_background.png"></center>
+    <center><a href="{{ site.url }}/images/slidebg_background.png"><img src="{{ site.url }}/images/slidebg_background.png"></a></center>
     <ul>
         <li>
             Color Setting
-            <center><img src="{{ site.url }}/images/slidebg_background.png"></center>
+                <center>
+                    <a href="{{ site.url }}/images/slidebg_color.png"><img src="{{ site.url }}/images/slidebg_color.png"></a>
+                </center>    
         </li>
+        <li>
+            Gradient Setting - Make a gradient with two colors, which gives added customization compared to presets
+                <center>
+                    <a href="{{ site.url }}/images/slidebg_gradient.png"><img src="{{ site.url }}/images/slidebg_gradient.png"></a>
+                </center>
 
+        </li>
+        <li>
+            Hatching Setting
+                <center>
+                    <a href="{{ site.url }}/images/slidebg_hatching.png"><img src="{{ site.url }}/images/slidebg_hatching.png"></a>
+                </center>
+
+        </li>
+        <li>
+            Bitmap Setting
+                <center>
+                    <a href="{{ site.url }}/images/slidebg_bitmap.png"><img src="{{ site.url }}/images/slidebg_bitmap.png"></a>
+                </center>
+
+        </li>
     </ul>
     </li>
 </ul>
