@@ -15,6 +15,8 @@ LibreOffice 5.2 is out, and one of the key improvements to Impress and Draw has 
 
 These panels enable quick access to the slide/page size and background properties. Both these panels have the same underlying code and features, and only differ in labels depending on the Application Context. So this post aims at explaining all these features in the panel available to both Impress and Draw.
 
+The entire enhancement report can be found <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=89466">*here*</a>. The main credits for developing panel go to bubli (**Katarina Behrens**), **Rishabh Kumar**, and **Yousuf Jay Philips**. I have been making enhancements to the same after the panel got published.
+
 <h2>Features</h2>
 <ul>
     <li>
@@ -74,4 +76,4 @@ These panels enable quick access to the slide/page size and background propertie
     </li>
 </ul>
 
-A few other enhancements like a `Edit Master Slide` button to go to Master view of Page/Slide, `Close Master Slide` to close Master Slide, and context label changes are expected to made in LO 5.3.
+A few other enhancements like a `Edit Master Slide` button to go to Master view of Page/Slide, `Close Master Slide` to close Master Slide, and context label changes are expected to added in LibreOffice 5.3.
