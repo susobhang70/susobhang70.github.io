@@ -19,6 +19,7 @@ fin_color:        "255,255,255"
 # or use the hint from https://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 url:       		   https://susobhang70.github.io/
+# url:
 
 # Owner/author information
 owner:
@@ -40,7 +41,7 @@ owner:
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:   UA-82257025-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         "4952861E8DCC6C99A3C66C2805CD1977"
