@@ -14,7 +14,7 @@ LibreOffice 5.2 is out, and one of the key improvements to Impress and Draw has 
 
 These panels enable quick access to the slide/page size and background properties. Both these panels have the same underlying code and features, and only differ in labels depending on the Application Context. So this post aims at explaining all these features in the panel available to both Impress and Draw.
 
-The entire enhancement report can be found <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=89466">*here*</a>. The main credits for developing the panel go to bubli (**Katarina Behrens**), **Rishabh Kumar**, and jay (**Yousuf Jay Philips**). I have been making enhancements to the same after the panel got published.
+The entire enhancement report can be found <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=89466">*here*</a>. The main credits for developing the panel go to bubli (**Katarina Behrens**), **Rishabh Kumar**, and jay (**Yousuf Philips**). I have been making enhancements to the same after the panel got published.
 
 <h2>Features</h2>
 <ul>
@@ -68,7 +68,7 @@ The entire enhancement report can be found <a href="https://bugs.documentfoundat
         </figure>
     </li>
     <li>
-        Checkbox to toggle display background.
+        Checkbox to toggle the display of the master slide's background.
     </li>
     <li>
         Checkbox to toggle display objects.
