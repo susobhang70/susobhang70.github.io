@@ -8,7 +8,6 @@ tags: [Sidebar, LibreOffice, slide, page, background]
 imagefeature: slidebgpanel.png
 comments: true
 share: true
-featured: true
 published: true
 ---
 LibreOffice 5.2 is out, and one of the key improvements to Impress and Draw has been the introduction of the Background Panels to the sidebar - namely Slide Background Panel for Impress, and Page Background Panel for Draw.
