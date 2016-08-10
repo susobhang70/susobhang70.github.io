@@ -76,4 +76,4 @@ The entire enhancement report can be found <a href="https://bugs.documentfoundat
     </li>
 </ul>
 
-A few other enhancements like a `Edit Master Slide` button to go to Master view of Page/Slide, `Close Master Slide` to close Master Slide, and context label changes are expected to added in LibreOffice 5.3.
+A few other enhancements like a `Edit Master Slide` button to go to Master view of Page/Slide, `Close Master Slide` to close Master Slide, and context label changes are expected be to added in LibreOffice 5.3.
