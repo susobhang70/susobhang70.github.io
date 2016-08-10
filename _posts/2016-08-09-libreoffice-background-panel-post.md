@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Background Panels for Impress/Draw"
-description: Description of features provided by the Slide/Page Background Panels in LibreOffice 5.2+
+title: "Properties Panels for Impress/Draw"
+description: Description of features provided by the Slide/Page Properties Panels in LibreOffice 5.2+
 headline: LibreOffice 5.2
 category: Sidebar-documentation
 tags: [Sidebar, LibreOffice, slide, page, background]
@@ -10,11 +10,11 @@ comments: true
 share: true
 published: true
 ---
-LibreOffice 5.2 is out, and one of the key improvements to Impress and Draw has been the introduction of the Background Panels to the sidebar - namely Slide Background Panel for Impress, and Page Background Panel for Draw.
+LibreOffice 5.2 is out, and one of the key improvements to Impress and Draw has been the introduction of the Properties Panels to the sidebar - namely Slide Content Panel for Impress, and Page Content Panel for Draw.
 
 These panels enable quick access to the slide/page size and background properties. Both these panels have the same underlying code and features, and only differ in labels depending on the Application Context. So this post aims at explaining all these features in the panel available to both Impress and Draw.
 
-The entire enhancement report can be found <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=89466">*here*</a>. The main credits for developing panel go to bubli (**Katarina Behrens**), **Rishabh Kumar**, and **Yousuf Jay Philips**. I have been making enhancements to the same after the panel got published.
+The entire enhancement report can be found <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=89466">*here*</a>. The main credits for developing the panel go to bubli (**Katarina Behrens**), **Rishabh Kumar**, and jay (**Yousuf Jay Philips**). I have been making enhancements to the same after the panel got published.
 
 <h2>Features</h2>
 <ul>
