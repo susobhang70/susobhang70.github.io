@@ -15,7 +15,7 @@ As Google Summer of Code 2016 draws to a close, I'd like to summarize my work  f
 
 This post aims at linking and listing out all the feature milestones developed during my project and the relevant commits, along with the goals missed and work to be done in the future.
 
-#Milestones Achieved#
+##Milestones Achieved##
 <ol>
     <li>
         <b>Writer Page Deck</b> - You can read the enhancement report <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=83830" target="_blank"><i>here</i></a> and the blog post describing the feature <a href="/sidebar-documentation/libreoffice-writer-page-deck-post/" target="_blank"><i>here</i></a>.
@@ -98,14 +98,14 @@ This post aims at linking and listing out all the feature milestones developed d
     </li>
 </ol>
 
-#Milestones Unfinished#
+##Milestones Unfinished##
 <ol>
     <li>
         <b>More Shapes Panel for Shapes Deck</b> - You can read the detailed enhancement report <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=87643" target="_blank"><i>here</i></a>. This is a work in progress, and I was stuck at how to load the categories of shapes into LibreOffice, folder wise, similar to the Gallery. The draft of the work done can be found <a href="https://gerrit.libreoffice.org/#/c/27181/" target="_blank"><i>here</i></a> (please mail/ping if you cannot access the patch).
     </li>
 </ol>
 
-#Milestones Missed#
+##Milestones Missed##
 If given more time, I'd have certainly given a shot at finishing the following proposed features:
 <ol>
     <li>
