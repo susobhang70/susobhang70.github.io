@@ -7,7 +7,7 @@
     <description>Posts categorized as 'LibreOffice'</description>
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
-    {% for post in site.categories.LibreOffice limit:10 %}
+    {% for post in site.category.LibreOffice limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
           <description>{{ post.content | xml_escape }}</description>
