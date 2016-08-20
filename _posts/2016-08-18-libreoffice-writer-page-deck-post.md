@@ -104,7 +104,7 @@ The entire enhancement report can be found <a href="https://bugs.documentfoundat
     </li>
     <li>
         Dropdown to change the spacing of the header (or footer) from the top (or bottom) of editable area of the document.
-        <center><a href="{{ site.url }}/images/WriterPageDeck/hf2a.png"><img src="{{ site.url }}/images/WriterPageDeck/hf2a.png"></a>   <a href="{{ site.url }}/images/WriterPageDeck/hf2b.png"><img src="{{ site.url }}/images/WriterPageDeck/hf2b.png"></a></center>
+        <center><a href="{{ site.url }}/images/WriterPageDeck/hf3a.png"><img src="{{ site.url }}/images/WriterPageDeck/hf3a.png"></a>   <a href="{{ site.url }}/images/WriterPageDeck/hf3b.png"><img src="{{ site.url }}/images/WriterPageDeck/hf3b.png"></a></center>
     </li>
     <li>
         The Margins and Spacing presets are similar, and currently 8 presets are present:
@@ -118,7 +118,6 @@ The entire enhancement report can be found <a href="https://bugs.documentfoundat
             <li>Large (1.9 cm)</li>
             <li>Extra Large (2.54 cm)</li>
         </ul>
-        <center><a href="{{ site.url }}/images/WriterPageDeck/hf3a.png"><img src="{{ site.url }}/images/WriterPageDeck/hf3a.png"></a>   <a href="{{ site.url }}/images/WriterPageDeck/hf3b.png"><img src="{{ site.url }}/images/WriterPageDeck/hf3b.png"></a></center>
     </li>
     <li>
         Setting to set same content for headers or footers on different pages of the document. There are four settings which are available -
