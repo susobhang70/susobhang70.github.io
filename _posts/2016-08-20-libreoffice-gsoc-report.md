@@ -124,3 +124,5 @@ If given more time, I'd have certainly given a shot at finishing the following p
         <b>Find and Replace Modal Dialog to Sidebar</b> (<a href="https://bugs.documentfoundation.org/show_bug.cgi?id=95405" target="_blank"><i>tdf#95405</i></a>)
     </li>
 </ol>
+
+Overall, a summer well spent. I'll be contributing to LibreOffice even after the completion of GSoC, aiming to fix the rest of the Sidebar issues. Happy Hacking!
