@@ -119,6 +119,7 @@ The entire enhancement report can be found <a href="https://bugs.documentfoundat
             <li>Extra Large (2.54 cm)</li>
         </ul>
     </li>
+    <br>
     <li>
         Setting to set same content for headers or footers on different pages of the document. There are four settings which are available -
         <ul>

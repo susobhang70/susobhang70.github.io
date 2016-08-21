@@ -64,7 +64,7 @@ This post aims at linking and listing out all the feature milestones developed d
     </li>
     <br>
     <li>
-        <b>Shapes Deck - Default Shapes Panel for Draw</b> - You can read the enhancement report <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=87643" target="_blank"><i>here</i></a>.
+        <b>Shapes Deck - Default Shapes Panel for Draw</b> - You can read the enhancement report <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=87643" target="_blank"><i>here</i></a> and the blog post describing the features <a href="/sidebar-documentation/libreoffice-default-shapes-panel-post" target="_blank"><i>here</i></a>.
         <h4>Commits</h4>
         <ul>
             <li><a href='https://cgit.freedesktop.org/libreoffice/core/commit/?id=ab9708e179762f97bd1a0ee4c0d4b439f1dabfd5' target="_blank">tdf#87643: Default Shapes Panel for Shapes Deck</a></li>
