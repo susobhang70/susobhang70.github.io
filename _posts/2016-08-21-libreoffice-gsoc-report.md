@@ -50,6 +50,8 @@ This post aims at linking and listing out all the feature milestones developed d
             <li><a href='https://cgit.freedesktop.org/libreoffice/core/commit/?id=82111a5f8206ce05fc762db14f4b066ce23d6f07' target="_blank">Add border padding to Slide Background Panel</a></li>
             <li><a href='https://cgit.freedesktop.org/libreoffice/core/commit/?id=b2bbebb34efc9b931b4bf0feaf1fdede7cad4f62' target="_blank">Set slide/page format dropdown size to 6 in Slide/Page panel</a></li>
             <li><a href='https://cgit.freedesktop.org/libreoffice/core/commit/?id=64ff7453408e578b95073db1740bfef4f500a2e4' target="_blank">tdf#89466 Add Master Slide and Close Master View button</a></li>
+            <li><a href='https://cgit.freedesktop.org/libreoffice/core/commit/?id=62424100ce6db8e5f1ff5a8bbb587f8ca4c389fc' target="_blank">tdf#89466: Resize color and gradient controls to 150px</a></li>
+            <li><a href='https://gerrit.libreoffice.org/28261' target="_blank">tdf#89466: Fix slide orientation</a></li>
         </ul>
     </li>
     <br>
@@ -69,6 +71,7 @@ This post aims at linking and listing out all the feature milestones developed d
             <li><a href='https://cgit.freedesktop.org/libreoffice/core/commit/?id=3ee3c29d03cf8c647f798d00b0a947042150449d' target="_blank">tdf#100886: Show Default ShapesPanel when Shape is selected</a></li>
             <li><a href='https://cgit.freedesktop.org/libreoffice/core/commit/?id=c878bfc8c90372217bfa41818825f4e047b794d8' target="_blank">Change background of shape thumbnails to dialog color</a></li>
             <li><a href='https://cgit.freedesktop.org/libreoffice/core/commit/?id=e8365711e817876ee45b282fc16977b55f4dbca8' target="_blank">Add spacing between shape groups in Default Shapes Panel</a></li>
+            <li><a href='https://cgit.freedesktop.org/libreoffice/core/commit/?id=44216ddbc620a1c05e98dda1f63ed6df0eae5275' target="_blank">tdf#87643: Make Shapes Deck experimental</a></li>
         </ul>
     </li>
     <br>
@@ -98,31 +101,16 @@ This post aims at linking and listing out all the feature milestones developed d
     </li>
 </ol>
 
-<h1>Milestones Unfinished</h1>
+<h1>Milestones Missed</h1>
 <ol>
     <li>
         <b>More Shapes Panel for Shapes Deck</b> - You can read the detailed enhancement report <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=87643" target="_blank"><i>here</i></a>. This is a work in progress, and I was stuck at how to load the categories of shapes into LibreOffice, folder wise, similar to the Gallery. The draft of the work done can be found <a href="https://gerrit.libreoffice.org/#/c/27181/" target="_blank"><i>here</i></a> (please mail/ping if you cannot access the patch).
+        <br>
+        <br>
+        At the end, I have been focusing more on QA tasks to improve the quality of my existing contributions, instead of developing new panels and functionalities like Documents-level measurement (<a href="https://bugs.documentfoundation.org/show_bug.cgi?id=98453" target="_blank"><i>tdf#98453</i></a>), Grid & Guidelines Panel(<a href="https://bugs.documentfoundation.org/show_bug.cgi?id=98820" target="_blank"><i>tdf#98820</i></a>), Find & Replace Panel etc.
     </li>
 </ol>
-
-<h1>Milestones Missed</h1>
-If given more time, I'd have certainly given a shot at finishing the following proposed features:
-<ol>
-    <li>
-        <b>Document-level measurement</b> - Add easy means of changing measurement in the Slide/Page content panel and Page tab - Tools > Options > LibreOffice Writer/Impress/Draw > General > Settings’ Unit of Measurement drop down menu (related - <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=98453" target="_blank"><i>tdf#98453</i></a>). Add pixel measurement to the list (<a href="https://bugs.documentfoundation.org/show_bug.cgi?id=86856" target="_blank"><i>tdf#86856</i></a>).
-    </li>
-    <br>
-    <li>
-        <b>Grid & Guidelines for Impress/Draw</b> (<a href="https://bugs.documentfoundation.org/show_bug.cgi?id=98820" target="_blank"><i>tdf#98820</i></a>)
-    </li>
-    <br>
-    <li>
-        <b>Alignment and arrangement section for Impress/Draw</b> (<a href="https://bugs.documentfoundation.org/show_bug.cgi?id=93561" target="_blank"><i>tdf#93561</i></a>)
-    </li>
-    <br>
-    <li>
-        <b>Find and Replace Modal Dialog to Sidebar</b> (<a href="https://bugs.documentfoundation.org/show_bug.cgi?id=95405" target="_blank"><i>tdf#95405</i></a>)
-    </li>
-</ol>
+<br>
+You may find all my gerrit patches <a href="https://gerrit.libreoffice.org/#/q/owner:susobhang70%2540gmail.com" target="_blank"><i>here</i></a> in one go, and most of my merged commits <a href="https://cgit.freedesktop.org/libreoffice/core/log/?qt=author&q=Susobhan" target="_blank"><i>here</i></a> too.
 
 Overall, a summer well spent. I'll be contributing to LibreOffice even after the completion of GSoC, aiming to fix the rest of the Sidebar issues. Happy Hacking!
