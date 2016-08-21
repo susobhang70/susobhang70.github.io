@@ -18,7 +18,7 @@ This post aims at linking and listing out all the feature milestones developed d
 <h1>Milestones Achieved</h1>
 <ol>
     <li>
-        <b>Writer Page Deck</b> - You can read the enhancement report <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=83830" target="_blank"><i>here</i></a> and the blog post describing the feature <a href="/sidebar-documentation/libreoffice-writer-page-deck-post/" target="_blank"><i>here</i></a>.
+        <b>Writer Page Deck</b> - You can read the enhancement report <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=83830" target="_blank"><i>here</i></a> and the blog post describing the feature <a href="/sidebar-documentation/libreoffice-writer-page-deck-post" target="_blank"><i>here</i></a>.
         <h4>Commits</h4>
         <ul>
             <li><a href="https://cgit.freedesktop.org/libreoffice/core/commit/?id=8b99402338773150fc0c8c6f894eb610e056d79e" target="_blank">tdf#83830: Page Format Panel</a></li>
