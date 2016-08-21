@@ -56,14 +56,6 @@ This post aims at linking and listing out all the feature milestones developed d
     </li>
     <br>
     <li>
-        <b>Import Bitmap functionality in Area Content Panel</b> - You can read the enhancement report <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=90078" target="_blank"><i>here</i></a>.
-        <h4>Commit</h4>
-        <ul>
-            <li><a href='https://cgit.freedesktop.org/libreoffice/core/commit/?id=1bbf0612ea35c73adf0c2aabedf457f7d85acdc0' target="_blank">tdf#90078 Add import bitmap button to Area Panel</a></li>
-        </ul>
-    </li>
-    <br>
-    <li>
         <b>Shapes Deck - Default Shapes Panel for Draw</b> - You can read the enhancement report <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=87643" target="_blank"><i>here</i></a> and the blog post describing the features <a href="/sidebar-documentation/libreoffice-default-shapes-panel-post" target="_blank"><i>here</i></a>.
         <h4>Commits</h4>
         <ul>
@@ -76,10 +68,18 @@ This post aims at linking and listing out all the feature milestones developed d
     </li>
     <br>
     <li>
-        <b>Media Playback Panel</b> - You can read the enhancement report <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=87794" target="_blank"><i>here</i></a>.
+        <b>Media Playback Panel</b> - You can read the enhancement report <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=87794" target="_blank"><i>here</i></a> and the blog post describing the features <a href="/sidebar-documentation/libreoffice-media-playback-panel-post" target="_blank"><i>here</i></a>.
         <h4>Commit</h4>
         <ul>
             <li><a href='https://gerrit.libreoffice.org/#/c/27363/' target="_blank">tdf#87794: Media Playback Panel</a></li>
+        </ul>
+    </li>
+    <br>
+    <li>
+        <b>Import Bitmap functionality in Area Content Panel</b> - You can read the enhancement report <a href="https://bugs.documentfoundation.org/show_bug.cgi?id=90078" target="_blank"><i>here</i></a>.
+        <h4>Commit</h4>
+        <ul>
+            <li><a href='https://cgit.freedesktop.org/libreoffice/core/commit/?id=1bbf0612ea35c73adf0c2aabedf457f7d85acdc0' target="_blank">tdf#90078 Add import bitmap button to Area Panel</a></li>
         </ul>
     </li>
     <br>
